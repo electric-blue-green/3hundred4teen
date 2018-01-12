@@ -42,7 +42,6 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
-          <p> Made with love by <a href="http://jeklog.com/">JekLog</a></p>
         </footer>
       </div>
     </div>

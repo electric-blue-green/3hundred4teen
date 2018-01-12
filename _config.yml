@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/3hundred4teen"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -84,3 +84,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+theme: jekyll-theme-cayman
